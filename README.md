@@ -6,3 +6,26 @@ Para mais detalhes, consulte o seguinte:
 
 - [README do Backend](/backend/README.md)
 - [README do Frontend](/frontend/README.md)
+
+### Executando o projeto
+
+Para executar o projeto, siga as instruções abaixo:
+
+1. Clone o repositório
+
+```bash
+git clone
+```
+
+2. Acesse a pasta do projeto
+
+```bash
+cd mindfusion-app
+```
+
+3. Inicialize o projeto
+
+```bash
+docker-compose build --no-cache
+docker-compose up -d
+```
