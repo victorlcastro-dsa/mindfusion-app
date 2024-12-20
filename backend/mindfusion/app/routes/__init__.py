@@ -5,6 +5,7 @@ from .review_routes import router as review_router
 from .session_routes import router as session_router
 from .tutor_routes import router as tutor_router
 from .user_routes import router as user_router
+from app.schemas import UserCreate, UserUpdate, UserOut, TutorCreate, TutorUpdate, TutorOut, SessionCreate, SessionUpdate, SessionOut, ReviewCreate, ReviewUpdate, ReviewOut
 
 router = APIRouter()
 
