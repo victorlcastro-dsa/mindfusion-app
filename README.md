@@ -1,4 +1,6 @@
-# mindfusion-app
+# mindfusion-app 
+
+`Projeto de estudo em Desenvolvimento`
 
 MindFusion é uma plataforma online inovadora que conecta estudantes com tutores especialistas. Oferecendo experiências de aprendizado personalizadas e em tempo real, ela capacita indivíduos a aprimorar suas habilidades em várias disciplinas. Com uma interface amigável, os estudantes podem facilmente encontrar o mentor certo para sua jornada de aprendizado.
 
