@@ -1,6 +1,6 @@
-1. Arquitetura do Frontend
+# 1. Arquitetura do Frontend
 
-1.1 Estrutura de Pastas
+## 1.1 Estrutura de Pastas
 
 A estrutura do frontend, utilizando Next.js com TypeScript, pode seguir o modelo abaixo:
 
@@ -33,7 +33,7 @@ A estrutura do frontend, utilizando Next.js com TypeScript, pode seguir o modelo
     /tailwind.config.js # Configuração do TailwindCSS (caso utilize)
 ```
 
-1.2 Telas e Funcionalidades
+## 1.2 Telas e Funcionalidades
 
 **Página Inicial (index.tsx):**
 
@@ -77,13 +77,13 @@ A estrutura do frontend, utilizando Next.js com TypeScript, pode seguir o modelo
 - Página para processamento de pagamento com Stripe ou PayPal.
 - Exibição de detalhes do pagamento antes da confirmação.
 
-1.3 Gestão de Estado Global
+## 1.3 Gestão de Estado Global
 
 **AuthContext:**
 
 - Um contexto global para gerenciar o estado de autenticação. Após login, o token JWT é armazenado no contexto e utilizado para autenticar as requisições subsequentes.
 
-1.4 Interação com a API
+## 1.4 Interação com a API
 
 **API Service:**
 
