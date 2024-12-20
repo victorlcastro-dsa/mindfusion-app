@@ -1,2 +1,8 @@
 # mindfusion-app
-MindFusion is an innovative online platform that connects students with expert tutors. Offering personalized, real-time learning experiences, it empowers individuals to enhance their skills across various subjects. With a user-friendly interface, students can easily find the right mentor for their learning journey
+
+MindFusion é uma plataforma online inovadora que conecta estudantes com tutores especialistas. Oferecendo experiências de aprendizado personalizadas e em tempo real, ela capacita indivíduos a aprimorar suas habilidades em várias disciplinas. Com uma interface amigável, os estudantes podem facilmente encontrar o mentor certo para sua jornada de aprendizado.
+
+Para mais detalhes, consulte o seguinte:
+
+- [README do Backend](/backend/README.md)
+- [README do Frontend](/frontend/README.md)
