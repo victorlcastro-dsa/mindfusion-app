@@ -1,0 +1,15 @@
+### Test review route
+GET http://localhost:8000/reviews/test
+Accept: application/json
+
+### Test session route
+GET http://localhost:8000/sessions/test
+Accept: application/json
+
+### Test tutor route
+GET http://localhost:8000/tutors/test
+Accept: application/json
+
+### Test user route
+GET http://localhost:8000/users/test
+Accept: application/json
