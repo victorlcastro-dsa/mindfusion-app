@@ -4,5 +4,8 @@ fastapi
 # Uvicorn is a lightning-fast ASGI server implementation, using uvloop and httptools.
 uvicorn
 
-# SQLAlchemy is the Python SQL toolkit and Object Relational Mapper that gives application developers the full power and flexibility of SQL.
+# Psycopg is the most popular PostgreSQL adapter for the Python programming language.
 psycopg2-binary
+
+# Dotenv is a zero-dependency module that loads environment variables from a .env file into os.environ.
+python-dotenv
